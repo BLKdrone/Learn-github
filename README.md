@@ -1,51 +1,7 @@
 # Learn-github
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>
-            SMCU IT
-        </title>
-        <link rel="stylesheet" href="stylesTest1.css">
-    </head>
-    <body>
-        <!--<a>สร้างlinkในhtml #section name ที่กำหนด id ไว้แล้ว-->
-        <header>
-            <div style="width:250%">
-            <div class = "pic" style="width:25%"><image class = "image" src="image IT syringe/smcu.png" alt="SMCU logo" height="60"></image>
-                <strong>SMCU IT</strong></div>
-                    <a href="#home"> <button class = "btn" style="width:11%"><strong>Home</strong></button></a>
-                    <a href="#aboutus"><button class = "btn" style="width: 11%"><strong>About us</strong></button></a>
-                    <a href="#location"><button class = "btn" style="width:11%"><strong>Location</strong></button></a>
-                    <a href="#contact"><button class = "btn" style="width:11%"><strong>Contact</strong></button></a>
-                    <a href="#teammembers"><button class = "btn" style="width:11%"><strong>Team</strong></button></a>
-                   
-            </div>
-        </header>
-        
-
-        <h1 id="home">
-            <div><image src="image IT syringe/smcu.png" alt="SMCU logo" height="300"></image></div>
-            SMCU <div>IT</div><div>TEAM</div>
-        </h1>
-        
-
-
-        <h2 id="aboutus">
-            About us
-        </h2>
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        </p>
-
-        <image src="cat.jpg" alt="team picture" height="200">
-        
-        <h3 id="location">
-            Location
-        </h3>
-        <p>
-            <a href="https://maps.app.goo.gl/Qg6S6kzAWEeu3U2y5">
-                คณะเเพทยศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย
-            </a>
+<
+dtrfhymgugfytfiugmhycmu    bananaaaadynmyjvygjuf
             <div>
                 1873 ถ. พระรามที่ 4 แขวงปทุมวัน เขตปทุมวัน กรุงเทพมหานคร 10330
             </div>    
